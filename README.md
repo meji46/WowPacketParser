@@ -103,4 +103,4 @@ Copyright information of third party libraries provided through NuGet can be obt
 
 ###### Provided third party libraries:
 
-DBFileReaderLib, 2019-2022 wowdev, located at https://github.com/wowdev/DBCD
+DBFileReaderLib, 2019-2026 wowdev, located at https://github.com/wowdev/DBCD
