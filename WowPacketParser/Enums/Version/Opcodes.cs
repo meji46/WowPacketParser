@@ -18,6 +18,7 @@ using WowPacketParser.Enums.Version.V2_5_1_38835;
 using WowPacketParser.Enums.Version.V2_5_2_39570;
 using WowPacketParser.Enums.Version.V2_5_3_41812;
 using WowPacketParser.Enums.Version.V2_5_4_42695;
+using WowPacketParser.Enums.Version.V2_5_5_64796;
 using WowPacketParser.Enums.Version.V3_3_5a_12340;
 using WowPacketParser.Enums.Version.V3_4_0_45166;
 using WowPacketParser.Enums.Version.V3_4_1_47014;
@@ -106,7 +107,6 @@ using WowPacketParser.Enums.Version.V12_0_0_65390;
 using WowPacketParser.Enums.Version.V12_0_1_65818;
 using WowPacketParser.Enums.Version.V12_0_5_66741;
 using WowPacketParser.Misc;
-using WowPacketParser.Enums.Version.V2_5_5_64796;
 
 namespace WowPacketParser.Enums.Version
 {
